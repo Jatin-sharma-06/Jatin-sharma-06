@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently persuing B. Tech at Arya Institure of Engineering and Technology, Jaipur.<br>👯 I’m looking to collaborate on vsrious python and ML projects.<br>🤝 I’m looking for help with writing Codes and making projects<br>🌱 I’m currently learning Aritficial Intelligence and Data Science<br><br>
 
+<img align ="right" alt="coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F106aa0f37f016eda7ec65de5acb90471&psig=AOvVaw0DiIzTtdskID1JNpUoM2v4&ust=1725473432034000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICGs8mvp4gDFQAAAAAdAAAAABAR">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Krish-Jbs/pfbid02YGxkDNyC99fpAR4kavuPJxZnVqZwnuUY8jCuGGwikavZaryXJeqCeD4iybo44rYyl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jeminner_246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sharma-082713238/)  
