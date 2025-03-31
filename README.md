@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech at Arya Institute of Engineering and Technology, Jaipur.  
-👯 I’m looking to collaborate on various Python and ML projects.  
+🔭 I’m currently pursuing B.Tech with specialization of Artificial Intelligence and Data Science at Arya College of Engineering, Jaipur.  
+👯 I’m looking to collaborate on various projects in C++, Java, Python.  
 🤝 I’m looking for help with writing codes and making projects.  
-🌱 I’m currently learning Artificial Intelligence and Data Science.  
+🌱 I’m currently learning DevOps tools and technologies.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Krish-Jbs/pfbid02YGxkDNyC99fpAR4kavuPJxZnVqZwnuUY8jCuGGwikavZaryXJeqCeD4iybo44rYyl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jeminner_246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sharma-082713238/)  
