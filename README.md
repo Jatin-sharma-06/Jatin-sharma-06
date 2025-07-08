@@ -5,9 +5,9 @@
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/jatinsharma06">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" width="50"/>
 </a> <a href="https://x.com/JatinSh01960978">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg?raw=true" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg?raw=true" width="50"/>
 </a>
 
 
@@ -15,20 +15,20 @@
 # 💻 Tech Stack:
 
 <p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true" width="40" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg?raw=true" width="50" />     
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="50" /> 
 </p>
 
 
