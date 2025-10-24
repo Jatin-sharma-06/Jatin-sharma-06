@@ -40,5 +40,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-sharma-06&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### RoadMap Progress Card
-[![](https://roadmap.sh/card/tall/67b5d8c998abd86c996fd48b?variant=dark)](https://roadmap.sh)
-
+[![roadmap.sh](https://roadmap.sh/card/tall/67b5d8c998abd86c996fd48b?variant=dark)](https://roadmap.sh)
