@@ -8,7 +8,9 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" width="50"/>
 </a> <a href="https://x.com/JatinSh01960978">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg?raw=true" width="50"/>
-</a>
+</a> <a href="https://www.salesforce.com/trailblazer/jatinsharma06">
+  <img src="https://www.svgrepo.com/show/375204/trailhead.svg?raw=true" width="50" color="white"/>
+
 
 
 
@@ -28,13 +30,16 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true" width="50" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true" width="50" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true" width="50" /> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="50" /> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg?raw=true" width="50" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="50" />
 </p>
 
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Jatin-sharma-06&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-sharma-06&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-sharma-06&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-sharma-06&limit=5&theme=dark&combine_all_yearly_contributions=true)
