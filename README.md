@@ -33,7 +33,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg?raw=true" width="50" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="50" />
-</p>
+<img src="https://img1.wsimg.com/isteam/ip/421b3f21-2085-4afa-b194-c3072be55ab1/SOQL.png" width="50" alt="SOQL"/></p>
 
 
 # 📊 GitHub Stats:
