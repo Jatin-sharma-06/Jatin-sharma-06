@@ -36,7 +36,3 @@
 <img src="https://img1.wsimg.com/isteam/ip/421b3f21-2085-4afa-b194-c3072be55ab1/SOQL.png" width="50" alt="SOQL"/></p>
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jatin-sharma-06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
