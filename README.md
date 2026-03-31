@@ -36,14 +36,7 @@
 <img src="https://img1.wsimg.com/isteam/ip/421b3f21-2085-4afa-b194-c3072be55ab1/SOQL.png" width="50" alt="SOQL"/></p>
 
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Jatin-sharma-06&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-sharma-06&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-sharma-06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### RoadMap Progress Card
-[![roadmap.sh](https://roadmap.sh/card/tall/67b5d8c998abd86c996fd48b?variant=dark&roadmaps=computer-science%2Cjava)](https://roadmap.sh)
 
