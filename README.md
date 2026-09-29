@@ -4,12 +4,9 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/jatinsharma06">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" width="50"/>
-</a> <a href="https://x.com/JatinSh01960978">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg?raw=true" width="50"/>
-</a> <a href="https://www.salesforce.com/trailblazer/jatinsharma06">
-  <img src="https://www.svgrepo.com/show/375204/trailhead.svg?raw=true" width="50" color="white"/>
+<a href="https://www.linkedin.com/in/jatinsharma06"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" width="50"/></a>
+<a href="https://x.com/JatinSh01960978"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg?raw=true" width="50"/></a>
+<a href="https://www.salesforce.com/trailblazer/jatinsharma06"><img src="https://www.svgrepo.com/show/375204/trailhead.svg?raw=true" width="50" color="white"/>
 
 
 
