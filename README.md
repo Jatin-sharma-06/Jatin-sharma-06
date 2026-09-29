@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently pursuing B.Tech in Artificial Intelligence and Data Science at Arya College of Engineering, Jaipur.<br>👯 I’m looking to collaborate on various projects in C++, Java, Python with OOPs and DSA Concepts.<br>🤝 I’m Ready to built efficient, clear, optimized code. <br>🌱 I want to grow as a Software Development Engineer.<br><br>
+## 💫 About Me
+
+🔭 **Salesforce Consultant** based in Jaipur, focused on building scalable, efficient, and reliable solutions.
+
+🌟 Interested in collaborating on projects involving **Salesforce, Java, C++, Python and Integration**.
+
+🤝 Passionate about writing **clean, optimized, maintainable, and well-structured code**.
+
+🌱 Continuously expanding my technical skills and working toward becoming a **Software Development Engineer (SDE)**.
+
+💡 Curious by nature and always eager to **learn, build, solve real-world problems, and explore new technologies**.
 
 
 ## 🌐 Socials:
